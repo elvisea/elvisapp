@@ -5,6 +5,17 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9177fba6-095d-4eed-90fd-9a54c9f06870"
+      }
+    },
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "https://u.expo.dev/9177fba6-095d-4eed-90fd-9a54c9f06870"
+    },
+    "android": {},
+    "ios": {}
   }
 }
